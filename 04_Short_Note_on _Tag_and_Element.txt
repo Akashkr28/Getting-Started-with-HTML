@@ -1,0 +1,22 @@
+4. Write a short note on Tag and element with an example?
+
+Ans.: - TAGS: - Tags are the building blocks of HTML documents and consist of angle brackets enclosing specific keywords. This tags provide instructions to web browsers 		on how to display the content. An HTML Tag consits of an Opening Tag '<' and, in some cases '>' closing tags. The closing tag also includes a forward 			slash '/' before the tag name. For example:
+			<p> This is a Paragraph </p>
+
+		Here, in the above example <p> is an opening tag for paragraph and </p> is a closing tag. They play a central role in defining the structure and 			presentation of content within documents. HTML tags can be broadly categorised into two types:
+	
+		1. Paired Tags (or Container Tags):
+			Paired tags have both an opening and a closing tag and can contain other HTML elements and text within them. They define a specific section or 				structure in the web page.Some common paired tags are: <html>, <head>, <p>, <span> etc....
+	
+		2. Singular Tags (or Void Tags):
+			In HTML, some are self-closing tags or void tags because they don't require a separate closing tags. These elements are used for elements that 				don't contain any content or don't have a closing closing counterpart. For example <br>, <hr>..
+
+	ELEMENT: - An HTML Element is a complete unit that includes an opening tag, content, and a closing tag. The start tag defines the beginning of an HTML element, 		and the end tag defines the end of an HTML element. Each HTML Element has a specific structure that defines the behaviour and appearance on a web page. 		For example: - 
+			<h1> This is a Heading </h1>
+		Here,
+			1. <h1> is an Opening Tag. 
+			2. "This is a heading" is content, and
+			3. </h1> is a Closing tag
+		When represented together stated as an HTML Element describing that "This is a Heading" will execte as an Heading of a Web Page. 
+
+	If we conclude, we can say that an element is a conceptual unit that represents a part of a document or a component, while tag is a specific syntax used to mark 	the start or end of an element in a markup language. Elements are composed of one or more tags, which define thier structure and semantics.
